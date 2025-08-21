@@ -2,36 +2,36 @@
 
 ## 🎯 Objetivo
 
-[cite_start]Este projeto implementa um sistema distribuído para o cadastro de livros, com cliente e servidor totalmente separados, utilizando uma aplicação web moderna e interativa[cite: 1, 4]. [cite_start]O objetivo é exercitar os conceitos de sistemas distribuídos, APIs e autenticação[cite: 2].
+Este projeto implementa um sistema distribuído para o cadastro de livros, com cliente e servidor totalmente separados, utilizando uma aplicação web moderna e interativa. O objetivo é exercitar os conceitos de sistemas distribuídos, APIs e autenticação.
 
 ## ✨ Funcionalidades
 
-[cite_start]A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários[cite: 5].
+A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários[cite: 5].
 
 * **Autenticação de Usuários:**
-    * [cite_start]Cadastro de novas contas com e-mail e senha[cite: 14].
-    * [cite_start]Login de usuários existentes[cite: 16].
+    * Cadastro de novas contas com e-mail e senha.
+    * Login de usuários existentes.
     * Rotas protegidas que só podem ser acessadas por usuários autenticados.
 
-* [cite_start]**Gerenciamento de Livros (CRUD)[cite: 5]:**
+* **Gerenciamento de Livros (CRUD):**
     * **Criar:** Adicionar novos livros ao acervo pessoal do usuário.
     * **Ler:** Listar todos os livros cadastrados pelo usuário.
     * **Atualizar:** Editar as informações de um livro existente.
     * **Deletar:** Remover um livro do acervo.
 
 * **Campos do Livro:**
-    * [cite_start]Título do livro[cite: 6].
-    * [cite_start]Autor principal[cite: 7].
-    * [cite_start]Quantidade de páginas[cite: 8].
-    * [cite_start]Ano de publicação[cite: 9].
+    * Título do livro.
+    * Autor principal.
+    * Quantidade de páginas.
+    * Ano de publicação.
 
 ## 🛠️ Tecnologias Utilizadas
 
-[cite_start]O projeto foi construído com as seguintes tecnologias[cite: 11]:
+O projeto foi construído com as seguintes tecnologias:
 
-* [cite_start]**Frontend:** Vue 3 (com Axios para consumir a API)[cite: 12].
-* [cite_start]**Backend:** Node.js com Express[cite: 13].
-* [cite_start]**Banco de Dados & Autenticação:** Supabase (PostgreSQL + Autenticação por e-mail/senha)[cite: 14].
+* **Frontend:** Vue 3 (com Axios para consumir a API).
+* **Backend:** Node.js com Express.
+* **Banco de Dados & Autenticação:** Supabase (PostgreSQL + Autenticação por e-mail/senha).
 
 ## 📂 Estrutura do Código
 
@@ -50,8 +50,8 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
 
 ### Pré-requisitos
 
-* [cite_start]Node.js instalado[cite: 22].
-* [cite_start]Uma conta gratuita no Supabase[cite: 21].
+* Node.js instalado.
+* Uma conta gratuita no Supabase.
 
 ### Backend (Servidor)
 
@@ -115,3 +115,4 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ## 👨‍💻 Autor
 
 **David Natan Santos**
+
