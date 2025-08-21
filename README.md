@@ -109,12 +109,19 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 
 **4. Tela de Cadastro e Edição de Livro**
 *Este é o formulário unificado usado tanto para **cadastrar um novo livro** quanto para **editar um livro** já existente.*
-![Tela de Formulário de Livro](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DO_FORMULARIO.png)
+![Tela de Formulário de Livro](https://github.com/N4SX/sistema-cadastro-livros/blob/main/telas/tela-cad-livro.png)
+
+**4. Tela de Edição de Livro**
+*Este é o formulário unificado usado tanto para **editar um livro** já existente.*
+![Tela de Formulário de Livro](https://github.com/N4SX/sistema-cadastro-livros/blob/main/telas/tela-edit-livro.png)
 
 ---
 ## 👨‍💻 Autor
 
 **David Natan Santos**
+**James Sousa**
+**Vanderlei Carvalho**
+
 
 
 
