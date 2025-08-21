@@ -1,0 +1,5 @@
+# Pastas de dependências que não precisam ser enviadas
+node_modules/
+
+# Arquivo com suas senhas e chaves secretas
+.env
