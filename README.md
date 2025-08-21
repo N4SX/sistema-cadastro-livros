@@ -116,11 +116,12 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ![Tela de Formulário de Livro](https://github.com/N4SX/sistema-cadastro-livros/blob/main/telas/tela-edit-livro.png)
 
 ---
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 * **David Natan Santos**
 * **James Sousa**
 * **Vanderlei Carvalho**
+
 
 
 
