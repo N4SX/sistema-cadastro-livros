@@ -101,7 +101,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 
 **2. Tela de Cadastro de Usuário**
 *Formulário para a criação de novas contas de usuário.*
-![Tela de Cadastro de Usuário](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DE_CADASTRO.png)
+![Tela de Cadastro de Usuário](https://github.com/N4SX/sistema-cadastro-livros/blob/main/telas/cadastra-usu%C3%A1rio.png)
 
 **3. Tela de Listagem de Livros**
 *Esta é a tela principal após o login. Ela exibe todos os livros do usuário e oferece as opções para adicionar um novo livro, editar um existente ou excluir.*
@@ -115,4 +115,5 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ## 👨‍💻 Autor
 
 **David Natan Santos**
+
 
