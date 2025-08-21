@@ -6,7 +6,7 @@ Este projeto implementa um sistema distribuído para o cadastro de livros, com c
 
 ## ✨ Funcionalidades
 
-A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários[cite: 5].
+A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários.
 
 * **Autenticação de Usuários:**
     * Cadastro de novas contas com e-mail e senha.
@@ -35,7 +35,7 @@ O projeto foi construído com as seguintes tecnologias:
 
 ## 📂 Estrutura do Código
 
-[cite_start]O repositório é um monorepo dividido em duas pastas principais, separando as responsabilidades do cliente e do servidor[cite: 26, 35]:
+O repositório é um monorepo dividido em duas pastas principais, separando as responsabilidades do cliente e do servidor:
 
 ```
 /trabalho01/
@@ -121,6 +121,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 * **David Natan Santos**
 * **James Sousa**
 * **Vanderlei Carvalho**
+
 
 
 
