@@ -118,9 +118,10 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ---
 ## 👨‍💻 Autor
 
-**David Natan Santos**
+* **David Natan Santos**
 * **James Sousa**
 * **Vanderlei Carvalho**
+
 
 
 
