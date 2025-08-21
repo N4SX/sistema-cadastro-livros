@@ -1,0 +1,117 @@
+# Sistema Distribuído de Cadastro de Livros
+
+## 🎯 Objetivo
+
+[cite_start]Este projeto implementa um sistema distribuído para o cadastro de livros, com cliente e servidor totalmente separados, utilizando uma aplicação web moderna e interativa[cite: 1, 4]. [cite_start]O objetivo é exercitar os conceitos de sistemas distribuídos, APIs e autenticação[cite: 2].
+
+## ✨ Funcionalidades
+
+[cite_start]A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários[cite: 5].
+
+* **Autenticação de Usuários:**
+    * [cite_start]Cadastro de novas contas com e-mail e senha[cite: 14].
+    * [cite_start]Login de usuários existentes[cite: 16].
+    * Rotas protegidas que só podem ser acessadas por usuários autenticados.
+
+* [cite_start]**Gerenciamento de Livros (CRUD)[cite: 5]:**
+    * **Criar:** Adicionar novos livros ao acervo pessoal do usuário.
+    * **Ler:** Listar todos os livros cadastrados pelo usuário.
+    * **Atualizar:** Editar as informações de um livro existente.
+    * **Deletar:** Remover um livro do acervo.
+
+* **Campos do Livro:**
+    * [cite_start]Título do livro[cite: 6].
+    * [cite_start]Autor principal[cite: 7].
+    * [cite_start]Quantidade de páginas[cite: 8].
+    * [cite_start]Ano de publicação[cite: 9].
+
+## 🛠️ Tecnologias Utilizadas
+
+[cite_start]O projeto foi construído com as seguintes tecnologias[cite: 11]:
+
+* [cite_start]**Frontend:** Vue 3 (com Axios para consumir a API)[cite: 12].
+* [cite_start]**Backend:** Node.js com Express[cite: 13].
+* [cite_start]**Banco de Dados & Autenticação:** Supabase (PostgreSQL + Autenticação por e-mail/senha)[cite: 14].
+
+## 📂 Estrutura do Código
+
+[cite_start]O repositório é um monorepo dividido em duas pastas principais, separando as responsabilidades do cliente e do servidor[cite: 26, 35]:
+
+```
+/trabalho01/
+[cite_start]├── client/         # Contém toda a aplicação Frontend em Vue 3 [cite: 32]
+[cite_start]└── server/         # Contém toda a API Backend em Node.js/Express [cite: 34]
+└── README.md       # Este arquivo
+```
+
+## 🚀 Instalação e Execução
+
+Siga os passos abaixo para rodar o projeto em sua máquina local.
+
+### Pré-requisitos
+
+* [cite_start]Node.js instalado[cite: 22].
+* [cite_start]Uma conta gratuita no Supabase[cite: 21].
+
+### Backend (Servidor)
+
+1.  **Navegue até a pasta `server`:**
+    ```bash
+    cd server
+    ```
+2.  **Crie o arquivo de ambiente:**
+    Crie um arquivo chamado `.env` na raiz da pasta `server` e adicione suas chaves do Supabase:
+    ```env
+    SUPABASE_URL=SUA_URL_DO_PROJETO_SUPABASE
+    SUPABASE_KEY=SUA_API_KEY_ANON_DO_SUPABASE
+    ```
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+4.  **Inicie o servidor:**
+    ```bash
+    node index.js
+    ```
+    O servidor estará rodando em `http://localhost:3000`.
+
+### Frontend (Cliente)
+
+1.  **Abra um novo terminal** e navegue até a pasta `client`:
+    ```bash
+    cd client
+    ```
+2.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+3.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+    ```
+    A aplicação estará acessível em `http://localhost:5173` (ou em outra porta indicada no terminal).
+
+## 🖼️ Telas da Aplicação (Prints)
+
+Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da aplicação.
+
+**1. Tela de Login**
+*Onde o usuário inicia a sessão para acessar o sistema.*
+![Tela de Login](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DE_LOGIN.png)
+
+**2. Tela de Cadastro de Usuário**
+*Formulário para a criação de novas contas de usuário.*
+![Tela de Cadastro de Usuário](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DE_CADASTRO.png)
+
+**3. Tela de Listagem de Livros**
+*Esta é a tela principal após o login. Ela exibe todos os livros do usuário e oferece as opções para adicionar um novo livro, editar um existente ou excluir.*
+![Tela de Listagem de Livros](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DE_LISTAGEM.png)
+
+**4. Tela de Cadastro e Edição de Livro**
+*Este é o formulário unificado usado tanto para **cadastrar um novo livro** quanto para **editar um livro** já existente.*
+![Tela de Formulário de Livro](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DO_FORMULARIO.png)
+
+---
+## 👨‍💻 Autor
+
+**David Natan Santos**
