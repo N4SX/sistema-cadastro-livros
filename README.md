@@ -105,7 +105,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 
 **3. Tela de Listagem de Livros**
 *Esta é a tela principal após o login. Ela exibe todos os livros do usuário e oferece as opções para adicionar um novo livro, editar um existente ou excluir.*
-![Tela de Listagem de Livros](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DE_LISTAGEM.png)
+![Tela de Listagem de Livros](https://github.com/N4SX/sistema-cadastro-livros/blob/main/telas/tela-principal-gerencia-livro.png)
 
 **4. Tela de Cadastro e Edição de Livro**
 *Este é o formulário unificado usado tanto para **cadastrar um novo livro** quanto para **editar um livro** já existente.*
@@ -115,6 +115,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ## 👨‍💻 Autor
 
 **David Natan Santos**
+
 
 
 
