@@ -97,7 +97,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 
 **1. Tela de Login**
 *Onde o usuário inicia a sessão para acessar o sistema.*
-![Tela de Login](INSIRA_AQUI_O_CAMINHO_PARA_O_PRINT_DA_TELA_DE_LOGIN.png)
+![Tela de Login](https://github.com/N4SX/sistema-cadastro-livros/blob/main/telas/tela-login.png)
 
 **2. Tela de Cadastro de Usuário**
 *Formulário para a criação de novas contas de usuário.*
@@ -115,5 +115,6 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ## 👨‍💻 Autor
 
 **David Natan Santos**
+
 
 
