@@ -121,8 +121,9 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 ## 👨‍💻 Autores
 
 * **David Natan Santos**
-* **James Sousa**
-* **Vanderlei Carvalho**
+* **James de Sousa**
+* **Vanderlei de Sousa Carvalho**
+
 
 
 
