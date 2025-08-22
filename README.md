@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Este projeto implementa um sistema distribuído para o cadastro de livros, com cliente e servidor totalmente separados, utilizando uma aplicação web moderna e interativa. O objetivo é exercitar os conceitos de sistemas distribuídos, APIs e autenticação.
+Este projeto implementa um sistema distribuído para o cadastro de livros, com cliente e servidor totalmente separados, utilizando uma aplicação web moderna e interativa. O objetivo é exercitar os conceitos de sistemas distribuídos como Middleware, APIs e autenticação.
 
 LINK DO VIDEO TUTORIAL: https://www.youtube.com/watch?v=6Y-YB210rgY
 
@@ -123,6 +123,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 * **David Natan Santos**
 * **James Sousa**
 * **Vanderlei Carvalho**
+
 
 
 
