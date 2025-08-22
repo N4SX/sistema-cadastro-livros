@@ -4,6 +4,8 @@
 
 Este projeto implementa um sistema distribuído para o cadastro de livros, com cliente e servidor totalmente separados, utilizando uma aplicação web moderna e interativa. O objetivo é exercitar os conceitos de sistemas distribuídos, APIs e autenticação.
 
+LINK DO VIDEO TUTORIAL: https://www.youtube.com/watch?v=6Y-YB210rgY
+
 ## ✨ Funcionalidades
 
 A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários.
@@ -62,8 +64,8 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
 2.  **Crie o arquivo de ambiente:**
     Crie um arquivo chamado `.env` na raiz da pasta `server` e adicione suas chaves do Supabase:
     ```env
-    SUPABASE_URL=SUA_URL_DO_PROJETO_SUPABASE
-    SUPABASE_KEY=SUA_API_KEY_ANON_DO_SUPABASE
+    SUPABASE_URL=URL_DO_PROJETO_SUPABASE
+    SUPABASE_KEY=API_KEY_ANON_DO_SUPABASE
     ```
 3.  **Instale as dependências:**
     ```bash
@@ -121,6 +123,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 * **David Natan Santos**
 * **James Sousa**
 * **Vanderlei Carvalho**
+
 
 
 
