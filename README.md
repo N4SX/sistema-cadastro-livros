@@ -6,8 +6,6 @@ Este projeto implementa um sistema distribuído para o cadastro de livros, com c
 
 Este trabalho faz parte da primeira unidade da disciplina de sistemas distribuidos do curso de sistemas de informação UFPI 2025.2
 
-LINK DO VIDEO TUTORIAL: https://www.youtube.com/watch?v=6Y-YB210rgY
-
 ## ✨ Funcionalidades
 
 A aplicação possui um sistema de CRUD (Create, Read, Update, Delete) completo para a gestão de livros, além de autenticação de usuários.
@@ -125,6 +123,7 @@ Abaixo estão as telas que demonstram o fluxo principal e as funcionalidades da 
 * **David Natan Santos**
 * **James de Sousa**
 * **Vanderlei de Sousa Carvalho**
+
 
 
 
